@@ -9,3 +9,7 @@
 
 ##打包
 PARCEL
+
+运行：./node_modules/.bin/parcel index.html --no-cache
+
+--no-cache 不用缓存
