@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f83fdcb-9018-4401-a90d-3fa6bb94cd85" name="Default Changelist" comment="完成按钮的基本样式" />
+    <list default="true" id="0f83fdcb-9018-4401-a90d-3fa6bb94cd85" name="Default Changelist" comment="完成按钮的基本样式">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624865474245</updated>
       <workItem from="1624865475496" duration="306000" />
-      <workItem from="1624865787484" duration="6792000" />
+      <workItem from="1624865787484" duration="7128000" />
     </task>
     <task id="LOCAL-00001" summary="npm i vue">
       <created>1624865658037</created>
